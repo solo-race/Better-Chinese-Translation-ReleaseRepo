@@ -1,7 +1,7 @@
 sm8
 none
 
-烈焰蜥蜴像一个僚机一样跑去与它的朋友会合。
+The red lizard runs off to get their friend like a good wingman.
 
-"现在到底发生了些啥？"
+"what is even happening right now."
 north_8i.txt

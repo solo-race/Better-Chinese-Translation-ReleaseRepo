@@ -1,15 +1,15 @@
 sm5
 none
 
-你决定跳进水坑，看看它去了哪里。
-你落入冰冷的水中，冷水迅速渗透到你的每一寸皮肤。
-你开始喘气。
-你试着在水下四处张望，你看遍四周，却看不到任何蛞蝓猫。
-你挥舞着双臂试图踩水，但没有用。
-你迷失了方向，丢失了如何返回的记忆。
-几秒钟后，你在水中昏迷过去
+You decide to jump down into the puddle too, and find out where they went.
+You slip down into the frigid water and begin to gasp as the
+cold water rapidly seeps through your thick skin.
+You try to look around underwater, but you can't see the other slugcat anywhere.
+You flail your arms about, and try to tread water, but it is no use.
+You're disoriented and lose track of the way back out.
+It is only a few seconds later before you pass out.
 
-重新开始
+RESTART
 start.txt
 
 FADE

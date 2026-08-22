@@ -1,10 +1,10 @@
 sm5b
 grl1
 
-这个生物抓住你的脖子，用你多肉的附肢把你抬离地面。
-当野兽张开嘴来咬你时，你看到上颌上有着长而锋利的犬齿。
-毫无疑问，这种生物是你见过的最大、最强的捕食者。
-它的站姿展现了巨大的力量和优秀的稳定性。
+The creature grabs you by the neck, lifting you off the ground by your fleshy appendages.
+You see a long, sharpened, canine tooth on the upper jaw protrude as the beast opens its mouth to bite you.
+The creature is without doubt the largest and most powerful predator you've ever come across. 
+The way it stands and holds itself suggests an immense amount of strength and stability.
 
-你脸红的厉害
+You blush profusely.
 down_8.txt

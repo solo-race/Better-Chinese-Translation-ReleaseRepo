@@ -1,15 +1,15 @@
 sm10
 gm1
 
-饕餮盯着你，摇晃着下巴。“你是职业……玩家？”
-你点头。饕餮依旧盯着你，似乎在思考。
-“职业玩家，嗯？我以前可从没听过这个。我听过很多其他的称呼，但这是一个新的。”
-“千真万确？”饕餮盯着你，用一根手指抵着下巴。
-“我担心我面前只有一个骗子。众所周知，骗子会说出最疯狂的话语。”
-你的心率增加了。在压力下，你从未表现出色。
-“我是…骗子？！不，看看这个，他们称只有职业玩家才能做出！”
-你用脚扔出鸡蛋，
-准备通过奇点用重力操纵将自己甩出超远距离。
+The hefty slugcat stares at you, chins wobbling. "You're a pro... gamer?"
+You nod. The hefty slugcat stares at you, seemingly in thought. 
+"A pro gamer, huh? I've never heard that one before. I've heard plenty of others, but that's a new one."
+"its true tho." The hefty slugcat stares at you and puts a finger to their chin. 
+"I'm afraid a liar is all that I see before me. Liars have been known to make the most insane of claims."
+Your heart rate increases. You've never been great under pressure.
+"lmao, a liar?! nah, check this, they call this a pro gamer move"
+You throw your egg by your feet, and prepare to use a gravity manipulation 
+strat to fling yourself super far with the singularity.
 
-展示你每一帧都很完美的操作
+Perform your frame perfect input.
 west_3endb.txt

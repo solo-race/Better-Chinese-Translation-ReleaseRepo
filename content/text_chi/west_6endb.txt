@@ -1,15 +1,15 @@
 sm6
 gm7
 
-你列出了在寻找伴侣的旅途中遇到的许多危险。
-“我不知道你说的这些是什么意思……”
-饕餮似乎更加困惑。
-“无所谓，”你说。“我会找到聚落的，哈哈。”
-你准备离开，但饕餮阻止了你。
-“我不能让你这么做。你是个入侵者。”
-“我就要去看看！如果我命中注定的伴侣在那呢？？我不能让这次机会溜走。”
-饕餮冷漠地盯着你。
-“听着，我知道你有需要，我也很同情你。但如果你来到我们的聚落，我们就会有问题。”
+You list the many dangerous things you encountered on your journey to find a mate.
+"I don't know what any of that stuff means..."
+The hefty slugcat seems even more confused.
+"nvm," you say. "ill just find the colony, lol."
+You begin to walk away, but the hefty slugcat stops you.
+"I can't let you do that. You're an intruder."
+"i need to see it! wat if my fated mate is there?? i cant let this go."
+The hefty slugcat stares at you with apathy.
+"Look, I get that you have needs, and I sympathize. But if you go to our colony, we're gonna have issues."
 
-一个闪身绕过去
+Maneuver your way past.
 west_6endc.txt

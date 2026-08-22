@@ -1,9 +1,9 @@
 sm2
 rv5
 
-蛞蝓猫突然前倾，在你耳边低语。
-“这不是恐惧。这是尊重。我喜欢眼中带着恐惧的蛞蝓。
-我喜欢挑战。你能给我一个挑战，是吗？"
+The slugcat suddenly leans forward and whispers in your ear.
+"That isn't fear. That's respect. I like a slug with some fear in their eyes.
+I like a challenge. You have a challenge for me, don't you?"
 
-"呃呃呃..."
+"uhhh..."
 east_7.txt

@@ -1,10 +1,10 @@
 sm1
 rv4
 
-“耶！！那儿好久没有访客了！”
-它兴奋地围着你转，然后紧紧抓住你的手。
-“来吧，来吧，我们走！”
-你还未意识到发生了什么，就被它迅速拖出洞穴。
+"Yay!! It's been so long since we had a visitor!"
+They excitedly run circles around you and then grasp your hand firmly.
+"Come on, come on, let's go!!"
+Before you know it, you're being swiftly dragged out of the cave by them.
 
-"哇啊!!"
+"woa!!"
 east_10.txt

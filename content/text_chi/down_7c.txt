@@ -1,12 +1,12 @@
 sm5b
 grl1
 
-“黄…黄金蜥蜴先生……啊……来自回想……”
-你试图组织一个得体的句子，但发现你害怕得连话都说不出来。
-这个野兽所做的事情使你嘴巴张开、双目在恐惧中睁大。
-这个生物向前走去，眼睛里充满恶意地看着你。
-当这个生物可怕的脸面对你时，你感受到巨大的压力。
-你感到无能为力。
+"g-golden lizard... aah... from echo..." 
+You attempt to formulate a proper sentence, but find that you are too terrified to even speak.
+The beast does something that causes your mouth to gape open and your eyes to widen in terror.
+The creature steps forward and looks down on you with malice in its eyes.
+You feel a tremendous pressure as the creature's horrible visage is applied to yours.
+You are powerless.
 
-你脸红的厉害
+You blush profusely.
 down_8.txt

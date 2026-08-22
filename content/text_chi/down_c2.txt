@@ -1,11 +1,11 @@
 sm6
 sa3
 
-你脸朝下躺在地板上，感觉有点傻。
-你侧着身子，感觉会看到它嘲笑你。
-相反，你看到蛞蝓猫随意地浮过来取你的蛋。
-“喂喂，你在干什么？？！”
-它无视了你，继续朝蛋走去。
+You lay faceplanted on the floor feeling kind of dumb.
+You roll over onto your side expecting to see them laughing at you.
+Instead you see the slugcat casually floating over to take your egg.
+"woah woah, wat do u think ur doing there??!"
+They ignore you and continue towards the egg.
 
-"嘿！别碰那玩意儿!!"
+"hey dont touch that!!"
 down_c3.txt

@@ -1,13 +1,13 @@
 sm15
 galaxy
 
-一个循环已经完成。
-新的宇宙已经诞生。
-你仍有很多工作。
+A cycle has been completed. 
+A new universe has been born.
+You have a lot of work to do.
 
-接受你的命运。
+Accept your fate.
 END
-再次尝试
+Retry.
 start.txt
 
 NA_03 - Wormpad

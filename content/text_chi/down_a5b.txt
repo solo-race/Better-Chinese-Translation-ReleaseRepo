@@ -1,13 +1,13 @@
 sm5
 none
 
-你开始穿越深处，深入地下洞穴，接近世界的底部。
-你下降得越来越低。然而，当你距离虚空海仅有一个房间时，
-一条看不见的虚空蠕虫穿过墙壁，粉碎你身体里的每一块骨头。
-我靠……
-我以为那个小故障不久前就修好了……
+You begin the trip through the depths, deep into the subterranean caverns, nearing the bottom of the world.
+You descend further and further down. However, as you reach one room before the void sea, 
+an invisible void worm clips through the wall and shatters every bone in your body. 
+What the hell.
+I thought that glitch was fixed a while ago...
 
-重新开始
+RESTART
 start.txt
 
 FADE

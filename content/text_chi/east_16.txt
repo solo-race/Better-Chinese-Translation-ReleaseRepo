@@ -1,14 +1,14 @@
 sm7
 bsm3m1
 
-“我们现在只有Ruffles上次外出时收集的棉花糖。”
-你对那些食物望而却步。
-这不是你熟悉的食物，你也不知道该怎么做。
-“你可以吃一些，我们有很多。”
+"All we have at the moment are these marshmallows that Ruffles gathered last time they were out."
+You recoil at the food item.
+It's not one you're familiar with, and you're not sure what to make of it.
+"You can have some, we have plenty."
 
-接过棉花糖
+Take the marshmallow
 east_17a.txt
-拿出你的蛋
+Offer your egg
 east_18.txt
-吃那些发光的漂浮物
+Eat the glowy food instead
 east_17b.txt

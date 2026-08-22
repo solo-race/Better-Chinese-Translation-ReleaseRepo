@@ -1,11 +1,11 @@
 sm3
 rl2
 
-“哇哦等等，没必要这样堤防。我不是来吃你的。”
-“我已经习惯于和烈焰蜥蜴打交道，别以为能对我施压，肮脏的野兽！”
-“不不，我只是想把你介绍给我的朋友。
-它们有点害羞，但它们一直在远处望着你。"
-“嗯……行不？”
+"Woah, wait, that's not necessary. I'm not here to eat you."
+"i'm used to dealing with red lizards, dont think u can pull anything on me, foul beast!"
+"No, no, I just wanted to introduce you to my friend.
+They're kind of shy, but they've been eyeing you from a distance."
+"uhh... okay??"
 
-"额…我觉得可以??"
+"sure i guess??"
 north_8h.txt

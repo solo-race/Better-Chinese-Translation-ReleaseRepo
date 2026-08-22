@@ -1,14 +1,14 @@
 sm5
 gm7
 
-饕餮看向你身后。
-你随着它的目光，看到那三只烈焰蜥蜴和巨大的烈焰蜈蚣包围了你们。
-“去和他们战斗吧。我是一个爱好和平的蛞蝓猫，战斗不是我喜欢的事情，”饕餮说。
-你叹息，转身面对身后的敌人。
-三只蜥蜴发出嘶嘶声和咆哮声，牙齿上闪烁着晶莹的口水。
-你还未来得及反应，就被他们的唾沫覆盖，很快就被撕咬致死。
+The hefty slugcat looks behind you. 
+You follow their gaze and see that the three red lizards and the giant red centipede have surrounded you.
+"Go ahead and fight them. I'm a peace loving slugcat, fighting isn't really my thing," the hefty slugcat says.
+You sigh, and turn to face the enemies behind you.
+The three lizards hiss and growl, flashing their teeth.
+Before you get a chance to do anything, you're covered by their spit, while they quickly maul you to death.
 
-重新开始
+RESTART
 start.txt
 
 FADE

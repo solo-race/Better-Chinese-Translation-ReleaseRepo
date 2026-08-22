@@ -1,16 +1,16 @@
 sm5
 kaboom
 
-你拿起一块石头，把它交给那位母亲。
-她把它握在手中并凝视着，似乎不太高兴。
-她把它放进嘴里，涂上一层爆炸物。
-她吐了出来，把石头变成了炸弹。
-她拿着炸弹，似乎很欣赏它，然后把它扔给你。
-炸弹在碰到你的一瞬间爆炸，你向后倒去。
-你感到茫然和困惑，觉得世界围绕你旋转。
-你挣扎着喘气，眼前的世界在黑暗中消逝。
+You pick up a rock and hand it to the mother slugcat. 
+She holds it in her hand and stares at it, but doesn't seem to be pleased.
+She places it into her mouth, coating it with an explosive substance. 
+She spits it out, having turned the rock into an explosive. 
+She holds it in her paws and seems to admire it, and then throws it at you. 
+It explodes upon impact with you, causing you to fall backwards. 
+You are dazed and confused as the world spins around you.
+You struggle to breathe as the world fades to black.
 
-重新开始
+RESTART
 start.txt
 
 FADE

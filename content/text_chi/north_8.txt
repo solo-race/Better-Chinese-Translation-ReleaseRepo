@@ -1,10 +1,10 @@
 sm9
 sp4
 
-你和矛大师爬上塔顶寻找食物。
-你眺望着远处建筑的顶棚。
-眼前显然是工业化的图景，你却感受到一种奇特美妙的感觉。
-你把头靠在矛大师的肩膀上。
+You and spearmaster climb to the roof of the tower in search of food. 
+You overlook the canopies of structures out in the distance. 
+The view is industrial, but oddly beautiful. 
+You lean your head against spearmaster's shoulder.
 
-"一切是多么美好。<3"
+"this is nice. <3"
 north_8b.txt

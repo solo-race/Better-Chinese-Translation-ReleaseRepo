@@ -1,12 +1,12 @@
 sm2
 gm1
 
-“是吗？告诉我，你受伤了吗。”饕餮问到。
-“我总是处于危险之中？”
-“啊，我尊重这一点。我们生活在一个严酷的世界，
-很少有人能忍受这种生活方式。"
-突然，三只烈焰蜥蜴和一只巨大的烈焰蜈蚣出现在山上。
-饕餮看着它们，怒发冲冠。
+"It has? Tell me, have you been hurt at all?" the hefty slugcat asks.
+"im just always in danger??"
+"Ah. I can respect that. The world we live in is a harsh one, and it's 
+rare to find someone who can put up with that kind of lifestyle."
+Suddenly, three red lizards and a giant red centipede emerge over the hill. 
+The hefty slugcat looks at them, and a rage fills their eyes.
 
-"看，这就是我刚才说的！！"
+"see, this is exactly what im saying!!"
 west_3end2b.txt

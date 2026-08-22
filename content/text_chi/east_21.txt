@@ -1,12 +1,12 @@
 sm4
 bsm4
 
-她突然把鸡蛋劈成两半。
-强力的吸力将机器和所有浮灯拉入其中。
-当它们聚集到一个中心点时，
-所有的灯光开始结合，产生越来越耀眼的光芒。
-吸力只会越来越强，将水、岩石和周围的金属吸入其中。
-你和你的伴侣都陷入了困境，也一并被吸入其中。
+She suddenly cracks the egg in half.
+A forceful suction begins that pulls the machine and all of the floating lights into it.
+As they collect into a central point, it's as if all of their
+lights begin to combine to create an increasingly blinding glow. 
+The suction only grows stronger, pulling the water, rocks and surrounding metal into it.
+You and your partner are caught up in this and get assimilated as well.
 
-睁开双眼
+Open your eyes
 east_22.txt

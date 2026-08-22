@@ -1,12 +1,12 @@
 sm15
 sil
 
-“嘘，还有很多工作要做，我需要帮手。这只是一个开始。”
-你耸耸肩。在这片虚空中没有其他事情可做，
-你也不想浪费你的脑细胞继续思考这个约会模拟故事。
-你开始工作。
+"Shh, there is much work to be done, and I could use a helper. This is just the beginning."
+You shrug. There's not much else to do in this void, and you don't feel like
+wasting your brain cells trying to reason around a dating sim story arc.
+You get to work.
 
-接受你的命运。
+Accept your fate.
 END
-再次尝试
+Retry.
 start.txt

@@ -1,13 +1,13 @@
 superagony_anim_1.0
 sp3c
 
-矛大师挣扎了片刻，随后身体便开始坍塌。
-形成一个肉眼无法分辨的物质奇点。
-周围所有的物质开始被吸收到这一点上，
-形成失控的崩溃，并以几何级扩散。
-你试图逃跑，你刚准备做出反应，但很快感到奇点的吸力。
-你还未意识到发生了什么，身体已经被扭曲成了意大利面，四周暗了下来。
-然而，不知为什么，你仍然保有意识。
+Spearmaster struggles for a moment, before their body collapses in on itself.
+Into a single point of matter smaller than your eye can even perceive.
+But with it, all other surrounding matter begins to be absorbed into the
+point as well, in a runaway cascading collapse. You try to run, but you
+begin to be absorbed into the point almost as fast as you can try to react.
+Before you know it, your body is spaghettified, and your surroundings go black.
+Yet, somehow, you are still conscious.
 
-观察四周。
+Observe your surroundings.
 north_9d.txt

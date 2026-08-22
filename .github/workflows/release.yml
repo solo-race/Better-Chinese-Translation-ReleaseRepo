@@ -1,0 +1,32 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare artifact
+        run: |
+          mkdir -p BetterChineseTrans
+          cp -a content text illustrations plugins BetterChineseTrans/
+          cp modinfo.json workshopdata.json thumbnail.png BetterChineseTrans/
+          zip -r BetterChineseTrans.zip BetterChineseTrans
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            BetterChineseTrans.zip \
+            --title "BetterChineseTrans $GITHUB_REF_NAME" \
+            --notes "Rain World Chinese localization release."

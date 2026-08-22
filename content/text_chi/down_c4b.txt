@@ -1,14 +1,14 @@
 sm5
 sa3
 
-蛞蝓猫不紧不慢地把头转向你，再次向你吐出舌头。
-它牢牢地粘在你的躯体上，当舌头向后拉时，你感觉到一种强烈的被拉扯感。
-它迅速地将你拖过地面，然后松开，
-把你从悬崖边扔下去。
-你掉进了下面的黑暗中。当你躺在地上，挣扎着移动身体时，
-一只黑蜥蜴从附近的管道里钻出，在你毫无防备的状态下迅速地发动攻击。
+The slugcat leisurely turns their head back towards you and launches their tongue at you again.
+It sticks firmly onto your torso and you feel a harsh tug as the tongue pulls back.
+It swiftly drags you across the ground, finally releasing its
+stick on you to fling you off the edge of a cliff. 
+You fall into the darkness below. As you lay, struggling to move your body, a black lizard
+slips out of a nearby pipe and makes quick work of you in your defenseless state.
 
-重新开始
+RESTART
 start.txt
 
 FADE

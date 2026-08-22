@@ -1,12 +1,12 @@
 sm5
 gm6
 
-一枚炸弹从它嘴里掉了出来，它摸索着去捡。
-然而，炸弹意外引爆。
-在爆炸中，你闭上眼睛，感到背部火辣辣的疼痛。
-你被爆炸解体。
+A bomb drops out of their mouth, and they fumble to try to pick it up. 
+However, it accidentally detonates.
+You close your eyes from the blast, and feel heat on your back.
+You disintegrate.
 
-重新开始
+RESTART
 start.txt
 
 FADE

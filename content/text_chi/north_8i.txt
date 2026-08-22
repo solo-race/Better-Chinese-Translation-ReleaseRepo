@@ -1,10 +1,10 @@
 sm8
 bl1
 
-“你好，我是……很高兴见到你……？？”
-“嗯，嘿，你还好吗？”
-“我，呃……嗯……我只是觉得你……很可爱……”
-“哦，谢谢。”
+"Hello it's... nice to meet you........??"
+"uh, hey, wats up?"
+"I, uh... ummm.... I just think you're like.... pretty cute..."
+"oh. thanks."
 
-"那么，你经常来这里吗？"
+"so, do u come here often?"
 north_8j.txt

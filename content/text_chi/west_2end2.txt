@@ -1,17 +1,17 @@
 sm5
 gm4
 
-你压低身形，小心翼翼地向前移动。
-你慢慢接近饕餮，不知道它会做出什么反应。
-当你靠近它时，你向它问好。
-它被你突如其来的声音吓了一跳，本能地卷成一团。
-然后它向你滚来，朝着下山的方向。你不知道该做什么，赶忙躲避。
-根本没用，它直接落在你头上。
-在它的重压下，你感觉到肺部的空气被挤出。
-你脑中最后的念想，它可真重！
-干得真漂亮。
+You cautiously move forward, staying low on the ground. 
+You approach the large slugcat slowly, unsure of how they will react. 
+As you get close, you yell hello at them.
+The sudden sound of your voice startles them, and they instinctively roll up into a ball. 
+Then they begin to tumble down the hill towards you. Unsure of what to do, you duck and cover.
+This is highly ineffective, and they land directly on top of you. 
+You feel the air in your lungs forced out by the sheer force of their weight. 
+Your last thoughts are of how heavy they felt as you die from the collision. 
+Well done.
 
-重新开始
+RESTART
 start.txt
 
 FADE

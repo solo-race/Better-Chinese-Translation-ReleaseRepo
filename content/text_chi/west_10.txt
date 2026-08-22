@@ -1,13 +1,13 @@
 sm4
 gm5
 
-当蛋被烹饪时，世界似乎围绕着食物产生了扭曲。
-时间似乎扭曲了，蒸汽像慢动作一样缓慢上升。
-就好像盐、胡椒和火的热量将时空扭曲，
-调味出一种原始的美味。
-你困惑地盯着那只笨重的蛞蝓猫，但嘴巴却忍不住地流口水。
-伴随着突然的原始饥饿，饕餮贪婪地吃掉了所有的蛋。
-它的身体开始发光漂浮，无数的物质从它嘴里散发出来。
+As the egg cooks, reality itself seems to begin to bend around the resultant food product.
+Time seems to warp, and you watch as steam rises as if in slow motion.
+It's as if the salt, pepper, and heat of the fire all bend 
+space and time to reach a primordial state of deliciousness.
+You stare at the hefty slugcat with bewilderment, but your mouth can't help but salivate.
+With a sudden primal hunger, the other slugcat greedily consumes all of the egg.
+Their body begins to glow and levitate, and infinite matter begins to radiate from their mouth.
 
-捂住双眼
+You shield your eyes.
 west_11.txt

@@ -1,13 +1,13 @@
 sm5
 none
 
-你小心翼翼地绕过拐角，眼睛凝视着黑暗。
-你什么也看不见，但又听到了下颚的嘎吱声。
-仿佛与黑暗完美融合，蜥蜴的黑色大嘴从黑暗中向你扑来。
-它是一种埋伏的捕食者，而你却掉进了一只食肉怪兽的嘴里！
-在你的精神消逝之前，有一种炽热的痛苦。
+You cautiously edge around the corner, your eyes peering into the darkness.
+You see nothing, but hear the chomping of jaws again.
+As if perfectly blended with the darkness, the black mouth of a lizard springs out of the darkness at you.
+It is an ambush predator, and you've fallen into the jaws of a carnivorous monster!
+There is a fiery pain before the world fades away.
 
-重新开始
+RESTART
 start.txt
 
 FADE

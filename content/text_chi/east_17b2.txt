@@ -1,16 +1,16 @@
 sm5
 rv3
 
-“不许伤害我妈妈！！”
-水猫以物理上不可能的速度
-跳过水池表面。
-在你意识到之前，它就已经把手伸向你喉咙。
-它把你推到水下，把你留在水里。
-你挣扎着想逃脱，但希望渺茫。
-水面上，漂浮的食物在闪闪发光，看起来像星星。
-那是一个美好的景象，亦是你旅途的终点。
+"STOP HURTING MY MOM!!" 
+The other slugcat skips across the surface of the water pool
+at a speed that should not be physically possible.
+Before you know it their hands are around your throat.
+They push you down under the water and hold you there.
+You struggle to get free, but there's no hope.
+The glow of the floating food items twinkle above the surface of the water, looking like stars.
+It's a beautiful final vision to end your journey on.
 
-重新开始
+RESTART
 start.txt
 
 FADE

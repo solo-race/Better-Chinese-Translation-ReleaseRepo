@@ -1,10 +1,10 @@
 sm7b
 grl2
 
-你抬眼一看。
-这是一个大家伙。
-那是它的肌肉吗？它们的形状非常清晰。
-你感到有点脸红，但也觉得自己突然处于非常危险的境地。
+Your eyes trail further up.
+That's a big creature alright.
+Are those its muscles? They are very well defined.
+You begin to blush a little, but also feel that you are suddenly in very real danger.
 
-继续向上看
+Look all the way up.
 down_6.txt

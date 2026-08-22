@@ -1,10 +1,10 @@
 sm7
 sp1a
 
-“什么？？哦……我不用嘴说话。我可以从尾巴里发出声音。”
-你盯着它尾巴上的洞，对它可疑的生理构造既觉得有趣，又感到有点反感。
+"What?? Oh... I don't need a mouth for that. I vocalize out of my tail."
+You stare at the holes on their tail both fascinated and repulsed by their questionable biology.
 
-靠近它的尾巴。
+Approach the tail.
 north_6a.txt
-分担它的沮丧。
+Share in their frustration.
 north_6b.txt

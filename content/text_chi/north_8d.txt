@@ -1,7 +1,7 @@
 sm3
 vt2
 
-"你有意见吗？！我们老大在这可以为所欲为。我们可是统治着这个棚顶区的秃鹫帮。"
+"You got a problem with that? Our boss here does what he wants. We rule this canopy."
 
-"我会报仇的!!"
+"i'll get my revenge!!"
 north_8e.txt

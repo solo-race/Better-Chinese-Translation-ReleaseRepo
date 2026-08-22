@@ -1,15 +1,14 @@
 sm1
 bsm2
 
-她突然拿着鸡蛋停在空中。
-“等一下……这个蛋？！”
-“这是一个蛋。”
-“这个蛋恰到好处，可以轻便携带。”
-（译者注：轻便携带portable，也有可移植的含义，即三重肯定的第二重）
-“是的，蛋往往是这样的。”
-“这个配方将是正确的技术实现。”
-“通过吃掉来实现。”
-“这可能是解决方案吗？！”
+She suddenly pauses in the air with the egg.
+"Wait a second... this egg?!"
+"yea its an egg."
+"This egg is just the right amount of portable."
+"yea eggs tend to be that way."
+"This recipe would be just the right technical implementation."
+"implement this food into my mouth."
+"Could this be the solution?!"
 
-"可以解决我的饥饿，是的"（点头
+"solution to my hunger, yes."
 east_21.txt

@@ -1,10 +1,10 @@
 sm3
 none
 
-突然间，一道快速的闪光出现，伴随着巨大的声音直击你的耳膜。
-这只大家伙突然身体一倾，瘫倒在地。
-不可能。
-它应该是无敌的。
+There is a quick flash of light accompanied by a loud pang that rings in your ears.
+The large creature suddenly goes limp and collapses to the ground.
+That's impossible.
+It should be invincible.
 
-你感受到了某种存在。
+You feel a presence.
 down_9.txt

@@ -1,9 +1,9 @@
 blush_anim_0.5
 sp2
 
-你把嘴伸向它的尾巴，它立即警觉地向后跳去。
-“嘿，你想做什么？”
-你继续追赶它，直到它退到平台的边缘。
+You lean your mouth towards their tail and they immediately jump back.
+"Eww, what do you think you're trying to do?"
+You continue after them until they're backed into the edge of the platform.
 
-开始狩猎吧。
+Go for the kill.
 north_6a2.txt

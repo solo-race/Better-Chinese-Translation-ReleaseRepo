@@ -1,12 +1,12 @@
 sm1
 none
 
-你环顾四周，发现你并非孤身一人。
-还有其他像你一样的生物在岩石间穿梭。
-你听到一种声音，像是下颚的咀嚼声。
-你需要小心，因为这里非常黑暗，捕食者可能隐藏在任何角落。
+You look around, and you see that you are not alone.
+There are other creatures like yourself, scuttling around amongst the rocks.
+You hear a sound, like the chomping of jaws.
+You need to be careful, as it's very dark here, and predators could be hidden around any corner.
 
-调查声音
+Investigate the sound.
 down_4a.txt
-看看身后
+Look behind you.
 down_4b.txt

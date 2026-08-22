@@ -1,15 +1,15 @@
 sm7
 bsm3n
 
-你质疑眼前的一切，这是个陷阱吗？这是一个合适的配偶吗？
-毫无疑问，现在你脑海中的蛞蝓猫一定是一种构造，
-一种由她母亲的声音控制的程序木偶。
-无论你么看，她都不是真的活着。
-也许在古老传统中，那些使用了新形式技术的后代就是这个模样。
+You question everything, was this a trap? Is this even a viable partner?
+There is no doubt in your mind now that the slugcat must be a construct,
+a programmed puppet controlled by her mother's voice.
+She is not truly alive in any way you can tell.
+This is simply the next generation of a very old tradition, using a new form of technology as a tool.
 
-"很高兴见到你。"
+"nice to meet u."
 east_14a.txt
-"你能理解我说的吗？"
+"can u understand me?"
 east_13.txt
-"我在寻找一位灵魂伴侣。"
+"im lookin for a soulmate."
 east_14b.txt

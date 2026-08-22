@@ -1,11 +1,12 @@
 sm9b
 sa2b
 
-好奇心占据了你的内心，你伸手去感受它的皮肤。
-它和你的一样吗？这种残留的“毛发”会是什么感觉？
-然而，它立即跳了回去。
-“嗯，你当然很有趣，但我们现在见面也许不是个好主意。我现在该走了。"
-你不是故意让它不舒服的……
+Curiosity gets the best of you, and you reach out to feel their skin.
+Is it the same as yours? What would this residual "fur" even feel like?
+However, they immediately jump back.
+"Well, you're certainly very interesting, but maybe it's not such a good
+idea for us to meet right now. I best get going."
+You didn't mean to make them uncomfortable...
 
-"等等..."
+"hol up..."
 down_b4.txt

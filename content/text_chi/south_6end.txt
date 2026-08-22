@@ -1,15 +1,15 @@
 sm4
 at3
 
-当你解释时，她困惑地看着你。
-“我们可以在这个世上繁衍后代。”
-她愤怒地向你咆哮，随即又开始哭泣。
-“我有过孩子。”
-她生气地看着你，啐了你一脸。
-“它们不可替代!”
-她消失了，只留下一片尘土。
-“哦不？？”
-当她离去时，你哭了，随后你也收拾好东西，转身离开。
+She looks at you in confusion, as you explain yourself.
+"we could populate this world, make new children."
+She growls angrily, and begins to cry again.
+"I had children."
+She looks at you angrily, and spits in your face.
+"They can't be replaced."
+She disappears, leaving behind a dust cloud.
+"ohh??"
+You weep as she leaves, and then you pack your things and leave as well.
 
-回到庇护所。
+Return to shelter.
 south_6endb.txt

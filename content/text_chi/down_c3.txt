@@ -1,13 +1,13 @@
 sm2
 sa3
 
-它终于停止了前进，转而看着你。
-“为什么？”它面无表情地问。
-“相信我，它不会好吃。”
-“哦，我不打算吃它。另外，我更喜欢吃玉米卷。”
-它轻轻笑了一下，然后转身朝向蛋。
+They finally stop their pursuit and turn to look at you.
+"Why?" They ask with an expressionless look.
+"trust me it wont taste good."
+"Oh, I wasn't going to eat it. Plus, I'm more of a taco guy myself."
+They give the slightest impression of a grin, then turn back towards the egg.
 
-等待并观察
+Wait and observe.
 down_c5.txt
-将蛋收回
+Take the egg back.
 down_c4.txt

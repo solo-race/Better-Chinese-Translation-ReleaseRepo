@@ -1,17 +1,17 @@
 rvsof
 rvsof2
 
-在这白色虚空里，一切都结合了起来。
-你的记忆依然存在，你也获得了对伴侣和家人的记忆。
-你找到你的灵魂伴侣了吗？或者你已经成为你自己的灵魂伴侣了吗？
-这似乎是同一个问题。
-完美的、不可否认的、共同的理解。
-灵魂结合在一起。
-你一直追寻的状态，就是这个……
+In this white void, everything has combined.
+Your memories remain, but so too have you acquired the memories of your partner and family.
+Have you found your soulmate, or have you become your soulmate?
+It seems like one in the same.
+A perfect, undeniable, shared understanding of each other.
+A soul combined in unison.
+This was the state of being you were searching for, you are sure of it.
 
-接受你的命运。
+Accept your fate.
 END
-再次尝试
+Retry.
 start.txt
 
 NA_03 - Wormpad

@@ -1,9 +1,9 @@
 sm1
 none
 
-向南，你会看到一片废墟。
-过去时代散落的残骸
-铺满一座座类似人工山脉的土堆。
+To the south, you approach a land of waste and ruins.
+The scattered byproducts of bygone eras lie strewn across the landscape
+in mounds that resemble artificial hills and mountains.
 
-继续前进。
+You proceed further.
 south_2.txt

@@ -1,12 +1,12 @@
 agony_anim_1.0
 gm7
 
-你猛扑到奇点力场的边缘
-并使用回弹后退到冲击波半径的5%。
-然而，你差了两个像素并立刻被吸进了奇点的核心。
-当你死亡时，你体内的每一个原子都在不断挤压。
+You pounce to the edge of the singularity's gravity field and 
+slide cancel backwards into the outer 5% of the shockwave's radius.
+You were two pixels off, however, and immediately get sucked into the core of the singularity.
+Every atom in your body is jostled as you become extremely dead.
 
-重新开始
+RESTART
 start.txt
 
 FADE

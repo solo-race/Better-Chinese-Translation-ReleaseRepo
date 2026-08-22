@@ -1,15 +1,15 @@
 sm7b
 grl1
 
-你抬头看到一张可怕的脸和表情，
-一张可怕的野兽脸，让你充满无法抑制的恐惧。
-你在任何地方都能认出那张脸。
-你努力忍住兴奋尖叫的冲动。
-你是它最大的粉丝。
+You look up and see a terrifying face and form,
+a monstrous, bestial visage that fills you with unquenchable dread.
+You'd recognize that face anywhere.
+You try to resist the urge to squeal in delight.
+You're their biggest fan.
 
-摸这个生物的肌肉
+Feel the creature's muscles.
 down_7a.txt
-"我能要你的签名吗？"
+"Can I have your autograph?"
 down_7b.txt
-采访它
+Interview the creature.
 down_7c.txt

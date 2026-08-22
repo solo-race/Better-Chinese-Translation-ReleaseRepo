@@ -1,12 +1,12 @@
 sm3
 sa1
 
-这家伙不知道在说什么。
-还有什么比你更优先的呢？
-成为你的伴侣是唯一重要的优先事项，你觉得你只需要让蛞蝓猫认识到它的错误。
-“好吧，我不会在没有伴侣的情况下离开这里，你也不会在没有配偶的情况下也离开这里！”
-你坚持你的立场。然而，这个立场对并没有给你太多帮助
-圣徒飞到空中，然后迅速离开。
+This slugcat doesn't know what it's talking about.
+What higher priority could there possibly be than you?
+Being your mate is the only priority that matters, you just need to make the slugcat realize their mistake.
+"well, im not leavin here without a mate, and ur not leaving here without one either!"
+You stand your ground. However, the ground doesn't help you much, as the
+other slugcat simply takes flight into the air and swiftly leaves.
 
-追逐
+Make chase.
 down_a6b.txt

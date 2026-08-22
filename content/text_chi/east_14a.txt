@@ -1,11 +1,11 @@
 sm10
 bsm3
 
-设备向你浮去。“哦，太好了，也很高兴见到你！~”
-它看着水猫。“这是你的新朋友吗？我总是很喜欢有更多的陪伴。”
-它的妈妈看起来很有礼貌。你稍微觉得舒服一点了。
-“是的，我想是现在约会还是什么？”
-“真可爱！家里的新成员！你叫什么名字？”
+The device floats over to you. "Oh, how sweet, nice to meet you too!~"
+It looks towards the other slugcat. "Is this your new friend? I always enjoy having more company."
+Their mom seems very polite. You feel a little more comfortable.
+"yea i think were dating now or something?"
+"How adorable! A new member of the family! What's your name?"
 
-"额……我没有名字…"
+"uh... i don't have a name..."
 east_14a2.txt

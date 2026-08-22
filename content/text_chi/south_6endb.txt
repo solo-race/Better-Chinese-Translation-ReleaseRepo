@@ -1,10 +1,10 @@
 sm2
 none
 
-天上下起了淅淅沥沥的雨滴，
-你花了这么多时间与她交谈以至于忘了吃饭。你躺下接受命运。
+The rain is starting to come, and you spent so much time 
+talking that you forgot to eat. You lay down and accept your fate.
 
-重新开始
+RESTART
 start.txt
 
 FADE

@@ -1,11 +1,11 @@
 sm9
 gm2
 
-你们手挽手，向前走着。
-你既紧张又兴奋。
-这就是你一直在等待的。
-你刚到达一个隐秘的地方，它立刻停下来升起篝火。
-你困惑地盯着它。
+You walk with the hefty slugcat, hand in hand.
+You're both nervous and excited.
+This is what you've been waiting for.
+Once you reach someplace private, they stop and start making a bonfire.
+You stare at them, confused.
 
-"嗯……你在做什么？"
+"uh, wat you doin?"
 west_8.txt

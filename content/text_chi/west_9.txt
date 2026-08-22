@@ -1,15 +1,15 @@
 sm10
 gm2
 
-你从胃袋中取出蛋，交给那只笨重的蛞蝓猫。
-它微笑着，笑得合不拢嘴。
-“你给我带了食物？”它说。
-“嗯……对！你要吗？”你紧张地问。
-“嗯！我想要。给我。”
-它把蛋放在火上加热，做炒蛋。
-“你怎么知道我喜欢蛋？”这只笨重的蛞蝓猫笑问。
-你盯着它，仍然紧张到不知道该说什么。
-“呃…什么？？”
+You take out the egg from your pouch, and offer it to the hefty slugcat.
+They smile, and begin grinning from ear to ear.
+"You brought me food?" they say.
+"uh...yea! u want it?" you ask nervously.
+"Yes! I want it. Give it to me."
+They begin heating the egg over the fire, making scrambled eggs.
+"How did you know I love eggs?" the hefty slugcat asks, beaming.
+You stare at them, still nervous and unsure of what to say.
+"uh... idk??"
 
-看着它进行烹饪
+You watch them cook.
 west_10.txt

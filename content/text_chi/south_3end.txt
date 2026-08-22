@@ -1,15 +1,15 @@
 sm5
 at1
 
-你向她扔出炸“蛋”试图制服她。
-炸“蛋”一旦撞击地面就会碎裂，并立刻产生时空奇点。
-然而，炸猫从体内发出爆炸，将蛋挡回你身边。
-你试图逃跑，却被爆炸的冲击波掀翻在地，伤痕累累。
-你躺在地面上奄奄一息，模糊中，炸猫怜悯地看着你。
-她最后说道：
-“我很抱歉，但你应该知道，不要惹一个在狩猎中的母亲。”
+You fling the explosive egg at her in an attempt to subdue her. 
+The egg shatters when it hits the ground, instantly beginning to generate a spacetime singularity.
+The other slugcat creates her own explosion, parrying the egg back towards you. 
+You try to run away, but the shockwave of the explosion slams into you, hurting you severely.
+You lie on the floor dying, as the other slugcat looks at you with pity. 
+She utters a few last words:
+"I am sorry, but you should have known better than to mess with a mother slugcat on the hunt."
 
-重新开始
+RESTART
 start.txt
 
 FADE

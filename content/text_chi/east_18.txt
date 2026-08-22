@@ -1,8 +1,8 @@
 sm10
 bsm3
 
-“啊，你想让我读这个吗？有点灰尘，但我会尽力的。等等……”
-它的母亲开始向你详细解释这个蛋的特性。
+"Ah, you would like me to read this? It's a bit dusty, but I will do my best. Hold on..."
+Their mother begins to explain the properties of the egg to you in excruciating detail.
 
-“什么？！不，不用解释，它是用来做好吃的！！”
+"wat?! no dont explain it, make food with it!!"
 east_19.txt

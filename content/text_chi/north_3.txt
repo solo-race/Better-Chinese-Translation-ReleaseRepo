@@ -1,10 +1,10 @@
 sm10
 sp2b
 
-石头砸到了它的头，它愤怒地盯着你。
-“你难道看不出我在故意无视你吗？
-我已经因为成为MSC恋爱模拟器的第一个主角而痛苦了，请不要再把我卷进这种事。”
-你没有真正理解刚刚的对话，只是困惑地盯着对方。
+The rock hits their head, and they stare back at you with annoyance.
+"Can't you tell I'm trying to ignore you? I already had to suffer through being the protagonist 
+of the first More Slugcats dating sim, please don't drag me into this again."
+You don't really follow the conversation and only stare back in confusion. 
 
-"啥...?"
+"wat...?"
 north_3b.txt

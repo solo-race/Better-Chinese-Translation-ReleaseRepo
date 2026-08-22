@@ -1,13 +1,13 @@
 sm2
 rv2
 
-“嗯，我想应该……”
-“所以无论如何，如果你想和我约会，你必须先见见我妈妈。”
-“什么”
-“对不起，这是必要的条件。你现在想去看她吗？”
-“我……嗯……”
+"umm, i should probably-"
+"So, anyway, if you're looking to date me, you need to meet my mother first."
+"what"
+"Sorry, it's a requirement. Do you want to go see her now?"
+"i... well... uh..."
 
-"当然..."
+"yea sure i guess..."
 east_9a.txt
-"不我现在要走了..."
+"no i really gotta be going now..."
 east_9b.txt

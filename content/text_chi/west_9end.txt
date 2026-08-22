@@ -1,15 +1,15 @@
 sm9
 gm2
 
-“好吧！”它说。“我会做一场盛宴。”
-“不管你想做什么，亲爱的。”
-你俩坐在篝火旁的原木上，看着篝火燃烧。
-你看着它开始烹饪一些你从未见过的食物。
-“你确定你能吃这些吗？”你问。
-它开始大笑，点头回应。
-“我是一个非常非常大的蛞蝓猫。我需要很多食物。”
-你惊讶地盯着它。
-你从来没有见过这么大的生物能以如此快速的方式移动。
+"Alright!" they say. "I'll make a feast."
+"whatever u want, my luv."
+You both sit on some logs around the bonfire, watching it burn.
+You watch as they begin to cook more food than you've ever seen.
+"are u sure u can eat all that?" you ask.
+They begin laughing, and nod their head.
+"I'm a really, really big slugcat. I need a lot of food."
+You stare at them in amazement. 
+You've never seen a creature that large move around in such a rapid manner before.
 
-吃准备好的食物
+Start eating the food as it's prepared.
 west_9endb.txt

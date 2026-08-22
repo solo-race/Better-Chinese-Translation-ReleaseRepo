@@ -1,13 +1,13 @@
 sm10
 gm2
 
-你伸手握住它，好奇它的反应。
-它困惑地看着你，但它也握住了你。
-“我叫饕餮，”这位笨重的蛞蝓猫说。
-“我……”你说，又突然意识到你不知道自己的名字。
-“我……呃……忘了我的名字。”
-“没关系。有一天会想起来的。”饕餮说。
-“酷。”
+You reach your hand out to hold theirs, curious of their reaction. 
+They look at you with a confused expression, but they grab onto you as well.
+"I'm Gourmand," the hefty slugcat says.
+"i'm..." you say, before realizing you don't know your name.
+"i...uh...forgot my name."
+"It's OK. It'll probably come back to you eventually," Gourmand says.
+"cool."
 
-"你在这里做什么呢？"
+"wat u doing out here rn?"
 west_5.txt

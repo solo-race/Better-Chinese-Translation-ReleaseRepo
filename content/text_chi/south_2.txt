@@ -1,15 +1,15 @@
 sm1
 at7
 
-突然在远处你看到了一只暗红色的蛞蝓猫。
-她咄咄逼人，似乎有用身体制造爆炸物的能力，
-并能够使用冲击波推动自己。
-她是一位母亲，正因失去孩子而悲痛不已。
-无论如何，她是你延续血脉的唯一希望。
-你必须选择小心接近她，
-否则她会因恐惧和悲痛而逃离。
+Suddenly in the distance you see a crimson colored slugcat. 
+She is aggressive and seems to have the ability to create explosions 
+from her body, and propel herself with the shockwaves. 
+She is a mother slugcat, who is grieving the loss of her children.
+Regardless, she is your only hope of continuing your lineage.
+You must choose to approach her carefully, or else she'll flee due to 
+her being terrified and grief-stricken.
 
-悄悄靠近她。
+Sneak up on her.
 south_3.txt
-向她扔出蛋。
+Throw the egg at her.
 south_3end.txt

@@ -1,11 +1,11 @@
 sm1
 none
 
-你潜入地下，到达最深处，触及现实扭曲的本质，
-迷雾漫游，过去的文明与虚空接壤。当然，对于有你这样有经历的人来说，
-这将是最合适的地方，在此有可能找到一个共度一生的伴侣。
-然而，情况并非总是如此。
-一旦搜索开始，人们并不总能找到他们想要的东西。
+You descend beneath the ground, to the deepest reaches where the nature of reality distorts, the
+fog demons roam, and past civilizations border the void. Surely for someone with your experiences,
+this would be the most appropriate location to potentially find a mate to spend your life with.
+However, it is not always so.
+Once the search begins, one does not always find what they are looking for.
 
-探索虚空
+Explore the void.
 down_2.txt

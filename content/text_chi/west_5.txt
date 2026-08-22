@@ -1,14 +1,14 @@
 sm7
 gm1
 
-“为我的聚落收集食物和补给。”
-“整个聚落？”
-“当然。我们不像你一样孤独。”
-“我们指的是多少人？”
-“嗯，我想大概三十或四十……或多或少。”
-“哇啊！？！”
+"Gathering food and supplies for my colony."
+"u have a whole colony?"
+"Yeah, of course. We're not all loners like you."
+"how big we talking??"
+"Hm, I'd say about thirty or forty... give or take a few."
+"woaaahh!?!"
 
-"嘿，给我介绍介绍。"
+"yo, hook me up."
 west_6end.txt
-"在所有人中我只想和你在一起。"
+"out of all of them, i want to be with u."
 west_6.txt

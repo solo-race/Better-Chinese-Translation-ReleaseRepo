@@ -1,9 +1,9 @@
 agony_001
 none
 
-你还未来得及伸出你的手，一只触手突然伸出，
-拍打着蜥蜴的后背，随即将它从塔的边缘拉了下去。
-你听到微弱的咕噜声，眼看着更多触手从边缘伸出。
+Before you get a chance to reach your hand out, a tentacle slaps the back of
+the lizard and pulls them off the edge of the tower. You hear a faint slurping 
+sound before more tentacles emerge over the edge.
 
-你感到恐惧。
+Panic.
 north_8l.txt

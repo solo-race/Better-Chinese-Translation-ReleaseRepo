@@ -1,11 +1,11 @@
 sm5b
 grl1
 
-野兽盯着你，开始慢慢向你移动。
-它张开嘴尖叫着，这是一种你从未听过的声音。
-你惊叹于它的外表，当它的声音通过你的胸膛共鸣时，
-这种感觉被你心中那神圣的存在所放大。
-它猛地用黑色的大爪子罩住你，把你的身体压在地板上。
+The beast stares at you and begins to move towards you slowly.
+It opens its jaws and shrieks, a sound unlike anything you have ever heard before.
+You are awestruck by its appearance, and that feeling is only amplified by
+the divine presence you feel as its vocals resonate through your chest.
+It slams its large black talons upon you, pinning your body to the floor.
 
-你脸红的厉害
+You blush profusely.
 down_8.txt

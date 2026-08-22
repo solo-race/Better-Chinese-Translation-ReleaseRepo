@@ -1,13 +1,13 @@
 sm9
 gm2
 
-你努力用手臂拥住饕餮的巨大身躯，但手臂无法完全伸展。
-饕餮笑着说：“你很可爱哦。”
-你不知道该怎么回应，紧张地笑了。
-饕餮就站在那里笑着。
-“嗯……你真的很热情，”你说，绞尽脑什试图多说点什么。
-“我想是这样的，”饕餮说着，随即又大笑起来。
-你俩都不知道该说什么，沉默了一会儿。
+You try to wrap your arms around the hefty slugcat's large exterior, but your arms cannot reach all the way around.
+The hefty slugcat laughs and says, "You're cute."
+You're not sure how to respond, so you laugh nervously. 
+The hefty slugcat is just standing there, laughing.
+"uh... ur really warm," you say, trying to think of something to say.
+"Yeah, I suppose I am," the hefty slugcat says, and begins laughing again.
+Neither of you know what to say, so you sit in silence for a while.
 
-"你在这里干什么呢？"
+"wat u doing out here rn?"
 west_5.txt

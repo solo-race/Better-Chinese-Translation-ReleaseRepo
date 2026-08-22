@@ -1,16 +1,16 @@
 sm9
 at3
 
-你这么说道。她好奇地看着你。
-“你怎么可能了解我？”她问道。
-“你很孤独。”
-她悲伤地移开视线，身体开始颤抖。
-她向后跌去，倒在地上。
-她深吸一口气，“你完全理解我。”
-她开始大声哭泣，你就坐在她身边。
-你用你又长又粘的手指抚过她的脸庞，她停止了哭泣。
+You say this and she looks at you with curiosity.
+"What could you possibly know about me?" she asks.
+"ur lonely."
+She looks away sadly, and her body begins shaking. 
+She stumbles backwards, and falls over onto the ground.
+With a gasp, she says, "You understand me perfectly."
+She begins crying loudly, and you sit by her. 
+You stroke her face with your long, slimy fingers, and she stops crying.
 
-"你需要孩子。"
+"u need children."
 south_6end.txt
-"你需要这个蛋。"
+"u need egg."
 south_6.txt
