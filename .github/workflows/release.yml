@@ -27,6 +27,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create "$GITHUB_REF_NAME" \
-            BetterChineseTrans.zip \
-            --title "BetterChineseTrans $GITHUB_REF_NAME" \
+            bettercntrans.zip \
+            --title "bettercntrans $GITHUB_REF_NAME" \
             --notes "Rain World Chinese localization release."
