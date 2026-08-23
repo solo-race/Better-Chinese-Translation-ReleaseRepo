@@ -12,7 +12,7 @@
 1. 在releases中找到最新的压缩包，并下载。
 2. 下载后，右键Steam库中的雨世界，`管理-->浏览本地文件`，进入雨世界的本地安装目录。
 3. 进入如下目录`Rain World\RainWorld_Data\StreamingAssets\mods\`，将压缩包解压至此目录。
-4. 打开`bettercntrans`文件夹，确认其中内容物为`content`、`illustrations`、`plugins`、`text`以及配置文件和本说明，而未有再包裹一层文件夹。文件夹结构应为`mods\bettercntrans`而非`mods\bettercntrans\bettercntrans`。
+4. 打开`bettercntrans`文件夹，确认其中内容物为`content`、`illustrations`、`plugins`、`text`以及配置文件和本说明，而未有再包裹一层文件夹。文件夹结构应为`mods\BetterChineseTrans`而非`mods\bettercntrans\BetterChineseTrans`。
 
 ## 参与人员
 

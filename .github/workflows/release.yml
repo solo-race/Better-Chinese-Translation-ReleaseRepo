@@ -20,13 +20,22 @@ jobs:
           mkdir -p BetterChineseTrans
           cp -a content text illustrations plugins BetterChineseTrans/
           cp modinfo.json workshopdata.json thumbnail.png BetterChineseTrans/
-          zip -r BetterChineseTrans.zip BetterChineseTrans
+          zip -r bettercntrans.zip BetterChineseTrans
+
+      - name: Resolve version
+        id: ver
+        run: |
+          if [[ "$GITHUB_REF_TYPE" == "tag" ]]; then
+            echo "version=$GITHUB_REF_NAME" >> "$GITHUB_OUTPUT"
+          else
+            echo "version=v$(jq -r .version modinfo.json)" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Create GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "$GITHUB_REF_NAME" \
+          gh release create "${{ steps.ver.outputs.version }}" \
             bettercntrans.zip \
-            --title "bettercntrans $GITHUB_REF_NAME" \
+            --title "bettercntrans ${{ steps.ver.outputs.version }}" \
             --notes "Rain World Chinese localization release."
